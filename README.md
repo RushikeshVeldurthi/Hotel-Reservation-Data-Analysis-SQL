@@ -23,9 +23,8 @@ This project dives into hotel reservation data through pure SQL-based analysis, 
 
 - Hotel_Reservation_Data.sql
 
-- Hotel Reservations.csv
-
 🛠️ Tools & Skills
+
 SQL (MySQL)
 
 - Database normalization & foreign keys
