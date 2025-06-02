@@ -1,5 +1,6 @@
 # Hotel-Reservation-Data-Analysis-SQL
 🏨 Hotel Booking Analysis – SQL 
+
 This project dives into hotel reservation data through pure SQL-based analysis, uncovering booking patterns, guest behavior, and cancellation trends. Without relying on Python or dashboards, the focus is on efficient querying and relational database design to extract meaningful business insights.
 
 🔍 Objectives
