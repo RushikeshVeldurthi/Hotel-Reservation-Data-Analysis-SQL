@@ -37,6 +37,7 @@ Joins and subqueries for behavioral segmentation
 Constraint-based schema design
 
 📊 Insights Highlight
+
 🔄 Cancellation rates vary widely by room type and season
 
 📅 Most cancellations occur in specific months—targeted marketing can help reduce churn
@@ -48,6 +49,7 @@ Constraint-based schema design
 🚗 A significant portion of guests request car parking and special services
 
 💡 Strategic Suggestions
+
 Launch promotions during high-cancellation months to reduce churn
 
 Reward repeat guests with loyalty points 
