@@ -4,56 +4,56 @@
 This project dives into hotel reservation data through pure SQL-based analysis, uncovering booking patterns, guest behavior, and cancellation trends. Without relying on Python or dashboards, the focus is on efficient querying and relational database design to extract meaningful business insights.
 
 🔍 Objectives
-Understand booking trends by guest type, room type, and arrival patterns
+- Understand booking trends by guest type, room type, and arrival patterns
 
-Analyze cancellation rates across room types and seasons
+- Analyze cancellation rates across room types and seasons
 
-Identify behavioral differences between repeat and new guests
+- Identify behavioral differences between repeat and new guests
 
-Support data-driven decision making for hotel strategy and operations
+- Support data-driven decision making for hotel strategy and operations
 
 📁 Files Included
-Hotel Reservations.csv
+- Hotel Reservations.csv
 
-market_segments.sql 
+- market_segments.sql 
 
-meal_plans.sql
+- meal_plans.sql
 
-room_types.sql
+- room_types.sql
 
-Hotel_Reservation_Data.sql
+- Hotel_Reservation_Data.sql
 
-Hotel Reservations.csv
+- Hotel Reservations.csv
 
 🛠️ Tools & Skills
 SQL (MySQL)
 
-Database normalization & foreign keys
+- Database normalization & foreign keys
 
-Aggregations, filters, grouping logic
+- Aggregations, filters, grouping logic
 
-Joins and subqueries for behavioral segmentation
+- Joins and subqueries for behavioral segmentation
 
-Constraint-based schema design
+- Constraint-based schema design
 
 📊 Insights Highlight
 
-🔄 Cancellation rates vary widely by room type and season
+- Cancellation rates vary widely by room type and season
 
-📅 Most cancellations occur in specific months—targeted marketing can help reduce churn
+- Most cancellations occur in specific months—targeted marketing can help reduce churn
 
-🧍‍♂️ Repeat guests book with shorter lead time and fewer special requests
+- Repeat guests book with shorter lead time and fewer special requests
 
-🛌 Room Type 1 is the most booked overall, while Room Type 6 sees higher cancellations
+- Room Type 1 is the most booked overall, while Room Type 6 sees higher cancellations
 
-🚗 A significant portion of guests request car parking and special services
+- A significant portion of guests request car parking and special services
 
-💡 Strategic Suggestions
+💡Strategic Suggestions
 
-Launch promotions during high-cancellation months to reduce churn
+- Launch promotions during high-cancellation months to reduce churn
 
-Reward repeat guests with loyalty points 
+- Reward repeat guests with loyalty points 
 
-Investigate underperforming room types with high cancellation rates
+- Investigate underperforming room types with high cancellation rates
 
-Offer bundled packages for guests making special requests or using parking services
+- Offer bundled packages for guests making special requests or using parking services
